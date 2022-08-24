@@ -1,3 +1,4 @@
 # Project exclude paths
 /venv/
 /mysite/db.sqlite3
+/mysite/mysite/settings.py
